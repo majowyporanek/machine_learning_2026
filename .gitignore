@@ -1,0 +1,8 @@
+# Ignore the original cloned repository
+machine-learning-course/
+
+# Ignore python cache and jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv
