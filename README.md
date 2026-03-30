@@ -1,3 +1,5 @@
 # machine_learning_2026
 
-First graded clustering exercise: see `clustering/047Clustering_Exercises.ipynb`.
+Clustering exercise: see `clustering/047Clustering_Exercises.ipynb`.
+
+Linear regression / Lasso / Fisher exercises: see `linear/026_Exercises.ipynb`.
